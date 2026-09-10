@@ -42,3 +42,6 @@ fullWidth: true
 │       ├── Qwen3-0.6B/
 ```
 
+具体效果图为
+
+![检测效果图](assets/1.jpg)
