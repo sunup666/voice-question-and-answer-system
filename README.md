@@ -1,4 +1,7 @@
 ---
+项目概述：构建支持语音与文本输入输出的智能问答系统，基于Qwen3大语言模型本地部署，集成faster-whisper语音识别与pyttsx3语音合成，实现多轮对话、流式输出与思考过程可视化。
+
+
 # 详细文档见https://modelscope.cn/docs/%E5%88%9B%E7%A9%BA%E9%97%B4%E5%8D%A1%E7%89%87
 domain: #领域：cv/nlp/audio/multi-modal/AutoML
 # - cv
